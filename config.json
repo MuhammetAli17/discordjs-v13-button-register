@@ -1,7 +1,7 @@
 {
     "bot": {
         "token": "TOKEN",
-        "owner": "KENDI ID'NIZ",
+        "owner": "KENDI ID'NIZ KESINLIKLE GIRIN",
         "prefix": ".",
         "BotStatus": "Bot Durum",
         "BotFooter": "Bot Footer",
