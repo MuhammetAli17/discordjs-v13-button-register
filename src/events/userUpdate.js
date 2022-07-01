@@ -8,7 +8,7 @@ const client = global.client;
 module.exports = async function(oldUser, newUser) {
     const guild = client.guilds.cache.get(config.Guild.GuildID)
     const role = guild.roles.cache.find(roleInfo => roleInfo.id === config.roles.team)
-    const ownerr = client.users.cache.get("796263552771817472");
+    const ownerr = client.users.cache.get(config.bot.owner);
     const member = guild.members.cache.get(newUser.id)
     let taglıüye = await guild.members.cache.filter(member => member.user.username.includes(config.registration.GuilDTag)).size
     const embed = new MessageEmbed().setTimestamp().setFooter(`Sunucumuzda toplam ${taglıüye} taglı var.`, ownerr.avatarURL({ dynamic: true })).setAuthor(" " + newUser.username + " ", newUser.avatarURL())
