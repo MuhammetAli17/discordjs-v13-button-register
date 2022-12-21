@@ -1,57 +1,57 @@
 {
     "bot": {
-        "token": "TOKEN",
-        "owner": "KENDI ID'NIZ KESINLIKLE GIRIN",
+        "token": "MTA1MzA5NzE0MjcyMzU0MzE1MQ.GOa2lS.6BDlYHd3NLZG7aFbyMGeBkmXsHSR2d15DCVdsQ",
+        "owner": "785186934062055455",
         "prefix": ".",
-        "BotStatus": "Bot Durum",
-        "BotFooter": "Bot Footer",
+        "BotStatus": "'Sletêry was here!",
+        "BotFooter": "'Sletêry",
         "cooldown": 8
     },
     "logs": {
-        "taglog": "TAG LOG ID",
-        "isimlog": "ISIM LOG ID",
-        "rollog": "ROL LOG ID",
-        "kayıtlog": "KAYIT LOG ID"
+        "taglog": "1048653595618312212",
+        "isimlog": "1055216311514435675",
+        "rollog": "1051078058293080104",
+        "kayıtlog": "1051078579913506846"
     },
     "roles": {
-        "booster": "BOOSTER ROL ID",
-        "vip": "VIP ROL ID",
+        "booster": "1047273894094057514",
+        "vip": "1051630352751394899",
         "sponsor": "SPONSOR ROL ID",
         "müzisyen": "MÜZİSYEN ROL ID",
-        "team": "TAGLI ROL ID"
+        "team": "1048653217581514852"
     },
     "channels": {
-        "chat": "CHAT KANALI ID",
-        "voicechannel": "SES KANALI ID",
-        "welcomechannel": "HOŞ GELDİN KANALI ID",
-        "rules": "KURALLAR KANALI ID"
+        "chat": "1048653512499789934",
+        "voicechannel": "1053087226445168740",
+        "welcomechannel": "1048653442249392219",
+        "rules": "1053076246738780212"
     },
     "registration": {
-        "unregistered": "KAYITSIZ ROL ID",
-        "man": ["1. ERKEK ROL ID", "2. ROL ID"],
-        "woman": ["1. KADIN ROL ID", "2. KADIN ROL ID"],
-        "botcommands": "BOT KOMUT ROL ID (VIP MUSİZYEN VEREBİLECEK)",
-        "staff": "REGISTER YETKILI ROL ID",
-        "GuilDTag": "TAGINIZ",
-        "TagSymbol": "•",
-        "autonickname": "• İsim | Yaş",
+        "unregistered": "1048653236653015101",
+        "man": ["1048653211256488037", "1048653212263125065"],
+        "woman": ["1051581496776999002", "1048653209159344228"],
+        "botcommands": "1053088640131145808",
+        "staff": "1051579264711008376",
+        "GuilDTag": "❃",
+        "TagSymbol": "❃",
+        "autonickname": "❃ İsim | Yaş",
         "symbol": "|",
-        "suspecios": "ŞÜPHELİ HESAP ROL ID",
-        "susoeciosnickname": "• Şüpheli Hesap",
-        "oneman": "ANA ERKEK ROL ID",
-        "onewoman": "ANA KADIN ROL ID",
+        "suspecios": "1048653197042004038",
+        "susoeciosnickname": "❃ Şüpheli Hesap",
+        "oneman": "1048653211256488037",
+        "onewoman": "1051581496776999002",
         "GuildDiscrim": "ETIKET TAGINIZ YOKSA BOS BIRAKIN",
         "minage": 13, 
         "purchase": false
     },
     "Guild": {
-        "GuildID": "SUNUCU ID",
-        "GuilDName": "SUNUCU ADI",
-        "GuildOwnerRole": ["SUNUCU KURUCU ROL ID", "SUNUCU KURUCU ROL ID"]
+        "GuildID": "1045315992613552178",
+        "GuilDName": "❃ L A V E N Y A",
+        "GuildOwnerRole": ["1048653131485028425", ""]
     },
     "emojis": {
-        "tada": "TADA EMOJI",
-        "yes": "ONAY EMOJI",
-        "no": "RED EMOJI"
+        "tada": "🎉",
+        "yes": "✅",
+        "no": "❌"
         }
     } 
